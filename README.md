@@ -1,2 +1,2 @@
-# greyclouds-dotfiles
-Dotfiles for i3/polybar config on Arch
+# dotfiles-euro
+Dotfiles do i3/polybar e outros programas de backup, sinta-se a vontade para usar.
